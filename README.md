@@ -1,2 +1,4 @@
-# thesis
-Master's thesis (York University) 
+This is a home to the manuscript of my Master's thesis, which I defended at York Univerity on October 2014. 
+
+#Abstract
+This thesis addresses the problem of shape representation using the GRID/formlet theory, a system based on localized diffeomorphisms. While this framework enjoys many desirable properties, it suffers from several limitations: it converges slowly for shapes with elongated parts, and it can be sensitive to parameterization as well as grossly ill-conditioned. Several innovations are proposed to address these problems: 1) The formlet basis is generalized to include oriented deformation, improving convergence for elongated parts. 2) A recent contour remapping method is applied in order to eliminate problems due to drift of the model parameterization during matching pursuit. 3) A regularizing term is introduced in order to limit redundancy in formlet parameters and improve the model’s identifiability. Finally, an algorithm is proposed to hierarchically cluster formlets, and is shown to induce a partial ordering on the representation.
